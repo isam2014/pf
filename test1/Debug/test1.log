@@ -1,0 +1,19 @@
+﻿La génération a démarré 22/03/2014 21:47:27.
+     1>Projet "C:\Users\nour\Desktop\detection de forme\test1\test1.vcxproj" sur le nœud 2 (build cible(s)).
+     1>InitializeBuildStatus:
+         Mise à jour de l'horodatage "Debug\ObjectDetectionContours.unsuccessfulbuild".
+       ClCompile:
+         Toutes les sorties sont à jour.
+         Toutes les sorties sont à jour.
+       ManifestResourceCompile:
+         Toutes les sorties sont à jour.
+       Link:
+         E:\Nouveau dossier (1)\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\nour\Desktop\detection de forme\Debug\ObjectDetectionContours.exe" /INCREMENTAL /NOLOGO opencv_contrib248d.lib opencv_core248d.lib opencv_features2d248d.lib opencv_flann248d.lib opencv_gpu248d.lib opencv_highgui248.lib opencv_imgproc248.lib opencv_legacy248d.lib opencv_ml248d.lib opencv_objdetect248d.lib opencv_ts248d.lib opencv_video248d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\ObjectDetectionContours.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\nour\Desktop\detection de forme\Debug\ObjectDetectionContours.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\nour\Desktop\detection de forme\Debug\ObjectDetectionContours.lib" /MACHINE:X86 Debug\ObjectDetectionContours.exe.embed.manifest.res
+         Debug\stdafx.obj
+         "Debug\objectdetection-contours.obj"
+     1>LINK : fatal error LNK1104: impossible d'ouvrir le fichier 'opencv_contrib248d.lib'
+     1>Génération du projet "C:\Users\nour\Desktop\detection de forme\test1\test1.vcxproj" terminée (build cible(s)) -- ÉCHEC.
+
+ÉCHEC de la build.
+
+Temps écoulé 00:00:00.38
